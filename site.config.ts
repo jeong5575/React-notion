@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'I am in Cloud-Engineering Course',
 
   // social usernames (optional)
-  twitter: 'jeong5575',
+  twitter: 'jeongyu11253385',
   github: 'jeong5575',
   linkedin: 'jeong5575',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
